@@ -8,7 +8,7 @@ Neon hover button
 <span></span>
 <span></span>
 <span></span>
-BUTTON -
+BUTTON
 </a>
 ``` 
 
